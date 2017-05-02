@@ -1,5 +1,5 @@
 
-#version=201704241116
+#version=20170430
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1145,7 +1145,6 @@
 127.0.0.1 jinrong.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 static.m.sjzhushou.com
-127.0.0.1 img.momocdn.com
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 api.appodeal.com
 127.0.0.1 api.mobads4app.com
@@ -4890,7 +4889,6 @@
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
-127.0.0.1 api.growingio.com
 127.0.0.1 apihk.growingio.com
 127.0.0.1 t.growingio.com
 127.0.0.1 tags.growingio.com
@@ -6049,3 +6047,52 @@
 127.0.0.1 20170429.logic.cpm.cm.kankan.com
 127.0.0.1 20170430.logic.cpm.cm.kankan.com
 127.0.0.1 20170431.logic.cpm.cm.kankan.com
+#@temporary.txt
+#http://www.fanhome.org
+127.0.0.1 m.baidu.com.zhiduo.org
+#m.1xiaoshuo.com
+127.0.0.1 zen.ztidu.com
+127.0.0.1 m.ky666666.com
+#m.5442.com
+127.0.0.1 xxx.caip2y.com
+#m.bookben.com
+127.0.0.1 s.nyydj.com
+#m.shumilou.co
+127.0.0.1 p.dandan19.top
+127.0.0.1 mm.njfsk.com
+#m.xs222.com
+127.0.0.1 m.papajia55.com
+#m.hsmil.com
+127.0.0.1 i5.hsmil.com
+127.0.0.1 i6.hsmil.com
+#http://www.btbtt.co/
+127.0.0.1 bbsimages.zkxf119.com
+#m.chinabig.com.cn/ m.huanqiumil.com（百度广告）
+127.0.0.1 bdjiaoben.wmxa.cn
+127.0.0.1 a2.huanqiumil.com
+127.0.0.1 a1.huanqiumil.com
+#bbs.hiapk.com
+127.0.0.1 s1.hiapk.com
+127.0.0.1 s2.hiapk.com
+#小说网广告js获取
+127.0.0.1 bmw.caip2y.com
+127.0.0.1 s.gqswg.com
+127.0.0.1 www.yhwjd.com
+127.0.0.1 xzl.caip2y.com
+127.0.0.1 tsdhgdhe.wap.xxbiquge.com
+127.0.0.1 su.baidu.com
+127.0.0.1 www.sxdyrq.com
+127.0.0.1 in.gqswg.com
+127.0.0.1 m.andgongge.com
+127.0.0.1 m.chenhuia.com
+127.0.0.1 me.fqtra.com
+127.0.0.1 e.andgongge.com
+127.0.0.1 m.joyfuldoors.com
+127.0.0.1 m.qoiusky.com
+127.0.0.1 s.ndtzx.com
+127.0.0.1 e.jossuer.net
+127.0.0.1 m.jossuer.net
+127.0.0.1 m.lnzangcha.com
+127.0.0.1 dd.m.dingdianzw.com
+127.0.0.1 e.lnzangcha.com
+127.0.0.1 f3.vedeh.com
